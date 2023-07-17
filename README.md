@@ -1,4 +1,4 @@
-# IBM-datascience
+# IBM Python datascience project
 ### IBM Coursera 'Python Project for Data Science' <br>
 Web Scraping with Beautiful Soup <br>
 Historical stock market analysis with pandas and plotly <br>
